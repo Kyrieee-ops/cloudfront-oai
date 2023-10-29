@@ -1,0 +1,2 @@
+project     = "cloudtech"
+environment = "dev"
