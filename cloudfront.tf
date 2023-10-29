@@ -1,3 +1,6 @@
+#------------------------------------
+# cloudfront
+#------------------------------------
 resource "aws_cloudfront_distribution" "dev_cloudfront" {
   enabled         = true
   comment         = "cache distribution"

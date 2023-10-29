@@ -1,2 +1,0 @@
-project     = "cloudtech"
-environment = "dev"
